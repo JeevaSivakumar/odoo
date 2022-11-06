@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "test_module",
+    'name': "product_multi_image_dio",
 
     'summary': """
         Short (1 phrase/line) summary of the module's purpose, used as
